@@ -1,6 +1,6 @@
 # Deeplearning-Nanodegree-Projects
 
-A 3 months deep learning course at which I studied the following topic:
+A 3 months deep learning course at which I studied the following topics:
 
 1 - Neural Networks
 
